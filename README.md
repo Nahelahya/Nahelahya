@@ -10,7 +10,7 @@
 ## 💫 About Me
 - 🎓 Mahasiswa aktif yang lagi belajar dan berkembang di dunia teknologi
 - 💻 Fokus di Web Development, Linux, dan UI Design
-- 🐧 Daily driver: Arch Linux. Karena hidup kurang sulit apparently.
+- 🐧 Daily driver: Arch Linux.
 - 🚀 Lagi cari pengalaman dan projek freelance buat tambah uang jajan
 - 📫 Reach me at: **nathadev@duck.com**
 
@@ -56,13 +56,5 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nahelahya/nahelahya/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
 
----
-
-## ⚡ Fun Fact
-> "Kadang bug selesai dalam 5 menit. Kadang bug selesai setelah mempertanyakan tujuan hidup selama 3 jam."
