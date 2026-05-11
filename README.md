@@ -17,7 +17,7 @@
 - 💻 Focused on Web Development, Linux, and UI Design
 - 🐧 Daily driver: Arch Linux
 - 🚀 Open for freelance and collaboration projects
-- 📫 Contact: **nathadev@duck.com**
+- 📫 Contact: **nathadev@zohomail.com**
 
 ---
 
